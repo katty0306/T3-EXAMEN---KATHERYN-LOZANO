@@ -7,12 +7,15 @@
       "RelativeMoniker": "D:0:0:{5937E080-E1DF-4CED-828C-23955366C576}|T3 EXAMEN - KGLL FUNALGS\\T3 EXAMEN - KGLL FUNALGS.csproj|solutionrelative:t3 examen - kgll funalgs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5937E080-E1DF-4CED-828C-23955366C576}|T3 EXAMEN - KGLL FUNALGS\\T3 EXAMEN - KGLL FUNALGS.csproj|c:\\users\\katheryn\\desktop\\codigos kl 2024\\t3 examen - kgll funalgs\\t3 examen - kgll funalgs\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5937E080-E1DF-4CED-828C-23955366C576}|T3 EXAMEN - KGLL FUNALGS\\T3 EXAMEN - KGLL FUNALGS.csproj|solutionrelative:t3 examen - kgll funalgs\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\katheryn\\Desktop\\CODIGOS KL 2024\\EJERCICIO TRABAJO DE PROG. - GRUPO 5\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5937E080-E1DF-4CED-828C-23955366C576}|T3 EXAMEN - KGLL FUNALGS\\T3 EXAMEN - KGLL FUNALGS.csproj|c:\\users\\katheryn\\desktop\\codigos kl 2024\\t3 examen - kgll funalgs\\t3 examen - kgll funalgs\\cita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5937E080-E1DF-4CED-828C-23955366C576}|T3 EXAMEN - KGLL FUNALGS\\T3 EXAMEN - KGLL FUNALGS.csproj|solutionrelative:t3 examen - kgll funalgs\\cita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5937E080-E1DF-4CED-828C-23955366C576}|T3 EXAMEN - KGLL FUNALGS\\T3 EXAMEN - KGLL FUNALGS.csproj|c:\\users\\katheryn\\desktop\\codigos kl 2024\\t3 examen - kgll funalgs\\t3 examen - kgll funalgs\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5937E080-E1DF-4CED-828C-23955366C576}|T3 EXAMEN - KGLL FUNALGS\\T3 EXAMEN - KGLL FUNALGS.csproj|solutionrelative:t3 examen - kgll funalgs\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,8 +25,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\katheryn\\Desktop\\CODIGOS KL 2024\\EJERCICIO TRABAJO DE PROG. - GRUPO 5\\Program.cs",
+              "RelativeDocumentMoniker": "..\\EJERCICIO TRABAJO DE PROG. - GRUPO 5\\Program.cs",
+              "ToolTip": "C:\\Users\\katheryn\\Desktop\\CODIGOS KL 2024\\EJERCICIO TRABAJO DE PROG. - GRUPO 5\\Program.cs",
+              "RelativeToolTip": "..\\EJERCICIO TRABAJO DE PROG. - GRUPO 5\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAADgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T13:44:11.96Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
@@ -39,7 +55,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "ESTUDIANTE.cs",
               "DocumentMoniker": "C:\\Users\\katheryn\\Desktop\\CODIGOS KL 2024\\T3 EXAMEN - KGLL FUNALGS\\T3 EXAMEN - KGLL FUNALGS\\ESTUDIANTE.cs",
               "RelativeDocumentMoniker": "T3 EXAMEN - KGLL FUNALGS\\ESTUDIANTE.cs",
@@ -58,7 +74,7 @@
               "RelativeDocumentMoniker": "T3 EXAMEN - KGLL FUNALGS\\Program.cs",
               "ToolTip": "C:\\Users\\katheryn\\Desktop\\CODIGOS KL 2024\\T3 EXAMEN - KGLL FUNALGS\\T3 EXAMEN - KGLL FUNALGS\\Program.cs",
               "RelativeToolTip": "T3 EXAMEN - KGLL FUNALGS\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-14T12:55:56.947Z",
               "EditorCaption": ""
