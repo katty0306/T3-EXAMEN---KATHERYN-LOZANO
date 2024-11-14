@@ -5,7 +5,7 @@ public static class CitaUtil
 {
     private static CITA[] citas = new CITA[100];
     private static int contadorCitas = 0;
-    console 
+    
     public static void CrearCita()
     {
         if (contadorCitas >= citas.Length)
