@@ -62,7 +62,7 @@ class Program
             estudiante.UNIVERSIDAD = Console.ReadLine();
 
             CITA cita = new CITA();
-            cita.NUMERO = contadorCitas + 1; // Asignar número de cita
+            cita.NUMERO = contadorCitas + 1; 
             cita.ESTUDIANTE = estudiante;
 
             Console.Write("Ingrese la enfermedad: ");
@@ -76,18 +76,18 @@ class Program
 
             Console.WriteLine("Cita creada exitosamente.");
 
-            // Preguntar si desea seguir registrando
+            
             Console.Write("¿Desea registrar otra cita? (s/n): ");
             char continuar = Console.ReadKey().KeyChar;
-            Console.WriteLine(); // Nueva línea para mejor legibilidad
+            Console.WriteLine(); 
 
             if (continuar != 's' && continuar != 'S')
             {
                 Console.WriteLine("Regresando al menú principal.");
-                break; // Salir del bucle de creación de citas
+                break; 
             }
 
-        } while (true); // Mantener el bucle mientras se desee seguir agregando citas
+        } while (true); 
     }
 
     private static void ListarCitas()
