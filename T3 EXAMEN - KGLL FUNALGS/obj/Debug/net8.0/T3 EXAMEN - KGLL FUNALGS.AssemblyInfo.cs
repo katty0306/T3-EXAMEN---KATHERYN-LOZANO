@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("T3 EXAMEN - KGLL FUNALGS")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+735676a7f5678aef1419a578f1f40f2cd17c1cc6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a682fafcf899898a824f729af3a2383d48e659e8")]
 [assembly: System.Reflection.AssemblyProductAttribute("T3 EXAMEN - KGLL FUNALGS")]
 [assembly: System.Reflection.AssemblyTitleAttribute("T3 EXAMEN - KGLL FUNALGS")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
